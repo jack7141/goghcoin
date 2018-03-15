@@ -1,0 +1,14 @@
+{
+  "name": "Goghcoin",
+  "version": "1.0.0",
+  "description": "GoghCoin, made in Node.JS",
+  "main": "src/server.js",
+  "repository": "https://github.com/jack7141/goghcoin",
+  "author": "Gogh Hwang <ghl92479@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "js": "^0.1.0"
+  }
+}
