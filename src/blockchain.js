@@ -130,5 +130,6 @@ const getBlocksHash = block =>
 //서버를 생성하기전에 export를 해줘야한다.
 module.exports = {
   getBlockchain,
-  createNewBlock
+  createNewBlock,
+  getLastBlock
 };
